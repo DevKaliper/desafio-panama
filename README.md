@@ -20,4 +20,4 @@ Este repositorio contiene una colección de funciones de JavaScript diseñadas p
 Clona el repositorio usando:
 
 ```bash
-git clone https://github.com/DevKaliper/desafio-panama
+git clone https://github.com/DevKaliper/desafio-panama.git
